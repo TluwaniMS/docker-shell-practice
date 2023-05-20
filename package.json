@@ -1,0 +1,14 @@
+{
+  "name": "docker-shell-practice",
+  "version": "1.0.0",
+  "description": "Practice project for handling docker shell commands",
+  "main": "index.js",
+  "repository": "https://github.com/TluwaniMS/docker-shell-practice.git",
+  "author": "tluwaniMS <tluwani2020@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "greet-the-world": "Hello World!!!",
+    "assert-yourself": "I am the Greatest!!!",
+    "remind-the-world": "I will always be the greatest!!!"
+  }
+}
