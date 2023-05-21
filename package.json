@@ -7,8 +7,8 @@
   "author": "tluwaniMS <tluwani2020@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "greet-the-world": "Hello World!!!",
-    "assert-yourself": "I am the Greatest!!!",
-    "remind-the-world": "I will always be the greatest!!!"
+    "greet-the-world": "echo Hello World!!!",
+    "assert-yourself": "echo I am the Greatest!!!",
+    "remind-the-world": "echo I will always be the greatest!!!"
   }
 }
